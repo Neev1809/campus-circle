@@ -1,0 +1,10 @@
+{
+  "name": "webfusion-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"student rental\" run dev",
+    "build": "npm --prefix \"student rental\" run build",
+    "lint": "npm --prefix \"student rental\" run lint",
+    "preview": "npm --prefix \"student rental\" run preview"
+  }
+}
